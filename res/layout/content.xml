@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <!--头-->
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/header">
+
+            <TextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:text="@string/mamen"
+                    android:textSize="18sp"
+                    android:layout_centerInParent="true"/>
+
+            <ImageView
+                    android:id="@+id/imgList"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/top_list"
+                    android:layout_alignParentRight="true"
+                    android:paddingRight="20dp"/>
+
+        </RelativeLayout>
+
+
+        <!--内容-->
+        <RelativeLayout
+                android:id="@+id/imageContainer"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/switcher_height">
+
+            <ImageSwitcher
+                    android:id="@+id/switcher"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/switcher_height"
+                    android:background="@android:color/holo_red_dark"
+                    android:layout_alignParentTop="true"/>
+            <!--左箭头-->
+            <ImageView
+                    android:id="@+id/arrowLeft"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/arrow_blank"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"/>
+            <!--右箭头-->
+            <ImageView
+                    android:id="@+id/arrowRight"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/arrow_solid"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"/>
+            <!--位置标识-->
+            <LinearLayout
+                    android:id="@+id/location_mark"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginBottom="10dp"/>
+
+            <ImageView
+                    android:id="@+id/play"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/play"
+                    android:visibility="gone"/>
+
+        </RelativeLayout>
+
+        <ImageView
+                android:id="@+id/imgTxt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/dragon_desc"
+                android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <!--尾-->
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true">
+
+        <include layout="@layout/footer"/>
+    </RelativeLayout>
+
+</RelativeLayout>

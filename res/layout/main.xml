@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent"
+              android:background="@drawable/main_bg">
+
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="6"/>
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="4"
+            android:orientation="vertical"
+            android:paddingLeft="10dp">
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp">
+
+            <ImageView
+                    android:id="@+id/exhibition"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/exhib_preview"/>
+
+            <!--二级菜单-->
+            <LinearLayout
+                    android:id="@+id/subExhibitionContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                <LinearLayout
+                        android:layout_width="579px"
+                        android:layout_height="63px"
+                        android:background="@drawable/sub_bg"
+                        android:gravity="center_vertical">
+
+                    <ImageView
+                            android:id="@+id/intro"
+                            android:layout_width="131px"
+                            android:layout_height="41px"
+                            android:src="@drawable/exhib_intro"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:id="@+id/exhibMap"
+                            android:layout_width="131px"
+                            android:layout_height="41px"
+                            android:src="@drawable/exhib_map"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:id="@+id/inquiry"
+                            android:layout_width="131px"
+                            android:layout_height="41px"
+                            android:src="@drawable/inquiry"
+                            android:paddingRight="20dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:layout_width="380px"
+                        android:layout_height="63px"
+                        android:background="@drawable/sub_bg2"
+                        android:gravity="center_vertical"
+                        android:layout_marginTop="5dp">
+
+                    <ImageView
+                            android:id="@+id/reservation"
+                            android:layout_width="131px"
+                            android:layout_height="41px"
+                            android:src="@drawable/reservation"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:layout_width="131px"
+                            android:layout_height="41px"
+                            android:src="@drawable/_new"
+                            android:paddingRight="20dp"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+        <ImageView
+                android:id="@+id/nevigate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/nevigate"
+                android:layout_marginBottom="10dp"/>
+
+        <ImageView
+                android:id="@+id/study"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/study_plan"
+                android:layout_marginBottom="10dp"/>
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+            <ImageView
+                    android:id="@+id/setting"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/setting"/>
+
+            <LinearLayout
+                    android:id="@+id/subSettingContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:background="@drawable/sub_bg"
+                        android:gravity="center_vertical">
+
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/collect"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/subscribe"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/item_setting"
+                            android:paddingRight="20dp"/>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/sub_bg2"
+                        android:gravity="center_vertical"
+                        android:layout_marginTop="5dp">
+
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/self_info"
+                            android:paddingRight="20dp"/>
+
+                    <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/wifi"
+                            android:paddingRight="20dp"/>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+

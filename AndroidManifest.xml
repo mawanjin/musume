@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.join.musume"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+
+    <uses-sdk
+            android:minSdkVersion="15"
+            android:targetSdkVersion="16"/>
+    <supports-screens
+            android:smallScreens="true"
+            android:normalScreens="true"
+            android:largeScreens="true"
+            android:resizeable="true"
+            android:anyDensity="true"/>
+    <application
+            android:name=".MApplication"
+            android:label="@string/app_name"
+            android:icon="@drawable/ic_launcher"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen">
+        <activity
+                android:name="MainActivity"
+                android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".ContentActivity"/>
+        <activity android:name=".ContentListActivity"/>
+        <activity android:name=".MapMainActivity"/>
+        <activity android:name=".MapActivity"/>
+        <activity android:name=".StudyListActivity"/>
+        <activity android:name=".QuestionListActivity"/>
+        <activity android:name=".QuestionActivity"/>
+        <activity android:name=".TestActivity">
+
+        </activity>
+        <activity android:name=".TouchImageViewActivity">
+
+        </activity>
+
+        <activity
+                android:name="oplayer.ui.VideoPlayerActivity"
+                android:configChanges="orientation|keyboard|keyboardHidden|navigation"
+                android:label="@string/app_name"
+                android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="http"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="rtsp"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="rtmp"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="udp"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="tcp"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="file"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="content"/>
+                <data
+                        android:mimeType="audio/*"
+                        android:scheme="mms"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="http"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="rtsp"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="rtmp"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="udp"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="tcp"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="file"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="content"/>
+                <data
+                        android:mimeType="video/*"
+                        android:scheme="mms"/>
+                <data android:mimeType="application/octet-stream"/>
+                <data android:mimeType="application/x-mpegurl"/>
+                <data android:mimeType="application/vnd.apple.mpegurl"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+
+                <data android:scheme="content"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data
+                        android:mimeType="application/x-mpegurl"
+                        android:scheme="http"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="rtsp"/>
+                <data android:scheme="rtmp"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="tcp"/>
+                <data android:scheme="udp"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <action android:name="android.intent.action.SEND"/>
+                <action android:name="android.intent.action.SENDTO"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+
+                <data android:mimeType="video/*"/>
+                <data android:mimeType="application/sdp"/>
+                <data android:mimeType="application/octet-stream"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="http"/>
+                <data android:mimeType="video/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="file"/>
+                <data android:scheme="content"/>
+                <data android:scheme="http"/>
+                <data android:scheme="https"/>
+                <data android:scheme="ftp"/>
+                <data android:scheme="rtsp"/>
+                <data android:scheme="rtmp"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="tcp"/>
+                <data android:scheme="udp"/>
+                <data android:scheme="gopher"/>
+                <data android:mimeType="video/*"/>
+                <data android:mimeType="audio/*"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+
+                <data android:scheme="file"/>
+                <data android:scheme="content"/>
+                <data android:scheme="http"/>
+                <data android:scheme="https"/>
+                <data android:scheme="ftp"/>
+                <data android:scheme="rtsp"/>
+                <data android:scheme="rtmp"/>
+                <data android:scheme="mms"/>
+                <data android:scheme="tcp"/>
+                <data android:scheme="udp"/>
+                <data android:scheme="gopher"/>
+                <data android:host="*"/>
+                <data android:pathPattern=".*\\.avi"/>
+                <data android:pathPattern=".*\\.asf"/>
+                <data android:pathPattern=".*\\.f4v"/>
+                <data android:pathPattern=".*\\.flv"/>
+                <data android:pathPattern=".*\\.mkv"/>
+                <data android:pathPattern=".*\\.mpeg"/>
+                <data android:pathPattern=".*\\.mpg"/>
+                <data android:pathPattern=".*\\.mov"/>
+                <data android:pathPattern=".*\\.rm"/>
+                <data android:pathPattern=".*\\.vob"/>
+                <data android:pathPattern=".*\\.wmv"/>
+                <data android:pathPattern=".*\\.ts"/>
+                <data android:pathPattern=".*\\.tp"/>
+                <data android:pathPattern=".*\\.m3u"/>
+                <data android:pathPattern=".*\\.m3u8"/>
+                <data android:pathPattern=".*\\.m4v"/>
+                <data android:pathPattern=".*\\.mp4"/>
+            </intent-filter>
+        </activity>
+        <activity
+                android:name="oplayer.ui.PlayerActivity"
+                android:configChanges="orientation|keyboard|keyboardHidden|navigation"
+                android:label="@string/app_name"
+                android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity
+                android:name="oplayer.ui.vitamio.InitActivity"
+                android:configChanges="orientation|screenSize|smallestScreenSize|keyboard|keyboardHidden|navigation"
+                android:launchMode="singleTop"
+                android:theme="@android:style/Theme.NoTitleBar"
+                android:windowSoftInputMode="stateAlwaysHidden"/>
+
+        <receiver android:name="oplayer.receiver.MediaScannerReceiver">
+
+            <!-- 重启 -->
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+
+                <data android:scheme="file"/>
+            </intent-filter>
+            <!-- 文件更改 -->
+            <intent-filter>
+                <action android:name="com.nmbb.oplayer.action.MEDIA_SCANNER_SCAN_FILE"/>
+                <action android:name="com.nmbb.oplayer.action.MEDIA_SCANNER_SCAN_DIRECTORY"/>
+
+                <data android:scheme="file"/>
+            </intent-filter>
+        </receiver>
+
+        <service android:name="oplayer.service.MediaScannerService"/>
+    </application>
+
+
+</manifest>

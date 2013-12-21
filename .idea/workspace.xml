@@ -1,0 +1,1315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidDesignerProfile">
+    <option name="fullProfile">
+      <profile>
+        <option name="device" value="7in WSVGA (Tablet)" />
+        <option name="deviceConfiguration" value="Portrait" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="Theme.Light.NoTitleBar" />
+      </profile>
+    </option>
+    <option name="selection" value="[Full]" />
+  </component>
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState>
+        <option name="device" value="4in WVGA (Nexus S)" />
+        <option name="dockMode" value="" />
+        <option name="nightMode" value="notnight" />
+        <option name="targetHashString" value="android-17" />
+        <option name="theme" value="Theme.Light.NoTitleBar" />
+        <option name="visible" value="false" />
+      </GlobalState>
+    </option>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="outWidth=" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3d199d7-d120-4afa-80b5-01a3ae098627" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/a_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/actualistic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/arrow_blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/arrow_blank_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/arrow_right.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/arrow_solid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/arrow_solid_left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/b_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/blackscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/c_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/check_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/collect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/contact_list_scroll_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/contact_list_scroll_pressed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/content_pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/default_thumbnail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/down_btn_9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/dragon_desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/dragon_pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/dragon_pic1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/dragon_pic_video.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/exhib_intro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/exhib_map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/exhib_preview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/exhib_preview_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/f1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/f2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/f3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/fast_scroller_overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/footer_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/footer_more_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/footer_more_selcted.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/geo_txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/header_geo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/header_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/home_bg_checked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/home_bg_normal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-ldpi/ic_launcher1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_line.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/in_bubble.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/inquiry.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/item_setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/libarm.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/armeabi-v7a/libvinit.so" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/list_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_56.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_cntv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_iqiyi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_letv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_pptv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_sina.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_sohu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_tudou.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/logo_youku.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/main_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/map_main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/material.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_pause01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_pause02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_play01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_play02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_seekbar01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/mediacontroller_seekbar02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/my_road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/nevigate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ormlite-android-4.42-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/ormlite-core-4.42-SNAPSHOT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pic2_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pic2_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pic2_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/picture_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/pinyin4j-2.5.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/play.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/pop_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/pub.key" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/question1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/question2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/question3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/reaction.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/recommend.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/reservation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/s_question1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/s_question2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/s_question3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sample_thumb_7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/save_road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sd_bar_bg.9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/self_info.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/setting_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/short_road.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/square_blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/square_solid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/story.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/study_plan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sub_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/sub_bg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/subscribe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/test.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_dragon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_geo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/top_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/top_list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree_txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_brightness_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_file.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_num_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_num_front.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_online.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/video_volumn_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/vitamio.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/wifi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/wrong.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/wrong_selected.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/base/ArrayAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/BaseActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/join/musume/BuildConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/vov/vitamio/widget/CenterLayout.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/ContentActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/adapter/ContentAdatper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/ContentListActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/Copy2TouchImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/Copy3TouchImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/Copy4TouchImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/CopyTouchImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/CustomScrollView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/database/DbHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/DrawView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/popwindow/ExhibitionPop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/adapter/FileAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/business/FileBusiness.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/adapter/FileDownloadAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/helper/FileDownloadHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/service/FileDownloadService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/util/FileUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/base/FilterArrayAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentFileOld.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentOnline.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/data/ImageFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/vitamio/InitActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/vitamio/LibsChecker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/exception/Logger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/MApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/join/musume/Manifest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/listener/MapOnTouchListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/popwindow/MapRoadPop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/vov/vitamio/widget/MediaController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/receiver/MediaScannerReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/service/MediaScannerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/OPlayerApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/OPreference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/po/OnlineVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/vov/vitamio/widget/OutlineTextView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/po/PFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/po/POMedia.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/util/PinyinUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/PlayerActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/data/Pointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/join/musume/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/vov/vitamio/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/database/SQLiteHelperOrm.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/util/SourceHolder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/util/StringUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/adapter/StudyAdatper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/StudyListActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/TestActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/base/ThreadPool.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/helper/VideoHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/video/VideoThumbnailUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/io/vov/vitamio/widget/VideoView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oplayer/ui/helper/XmlReaderHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/alphabet_scroller_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ant.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/common_loading.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/content.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/content_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/footer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/footer_more.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_file.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_file_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_online.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_online_item.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_pager.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/home_btn_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/list_content.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/list_study.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/map.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/map_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mediacontroller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/mediacontroller_pause_button.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/mediacontroller_play_button.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/mediacontroller_seekbar.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable/mediacontroller_seekbar_thumb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/mediaplayer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/musume.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/my_media_controller.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/pop_exhibition.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/pop_map_road.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/question.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/question_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/study_list.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/videoview.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="musume.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387526927792" ignored="false" />
+    <file path="/main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545456892" ignored="false" />
+    <file path="/PortalActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387096809343" ignored="false" />
+    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387625724201" ignored="false" />
+    <file path="/footer.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387530904853" ignored="false" />
+    <file path="/dimens.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387104723497" ignored="false" />
+    <file path="/footer_more.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387095115945" ignored="false" />
+    <file path="/content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545527530" ignored="false" />
+    <file path="/ContentActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182428499" ignored="false" />
+    <file path="/MainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503230247" ignored="false" />
+    <file path="/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387184115400" ignored="false" />
+    <file path="/ExhibitionPop.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387110303434" ignored="false" />
+    <file path="/pop_exhibition.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387548722581" ignored="false" />
+    <file path="$PROJECT_DIR$/../JwZhangJie/project.properties" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387116233402" ignored="false" />
+    <file path="$PROJECT_DIR$/../JwZhangJie/res/values/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387116325180" ignored="false" />
+    <file path="/fragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503826998" ignored="false" />
+    <file path="$PROJECT_DIR$/../JwZhangJie/src/com/jwzhangjie/videoplayer/JieVideoPlayer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162860323" ignored="false" />
+    <file path="/JieVideoPlayer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162857940" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/MediaPlayerDemo_Video.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161952353" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio/src/io/vov/vitamio/utils/FileUtils.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387160169432" ignored="false" />
+    <file path="/MediaPlayerDemo_Video.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161948663" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387160934541" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/activity/minetravel/AccountBookActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161094118" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/SourceHolder.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161954140" ignored="false" />
+    <file path="/SourceHolder.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161926234" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/VideoViewDemo.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387163965706" ignored="false" />
+    <file path="/VideoViewDemo.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387163959979" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/MediaPlayerSubtitle.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162395941" ignored="false" />
+    <file path="/MediaPlayerSubtitle.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162382440" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/VideoViewSubtitle.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162489297" ignored="false" />
+    <file path="/VideoViewSubtitle.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162488724" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/MediaMetadataRetrieverDemo.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162649133" ignored="false" />
+    <file path="/MediaMetadataRetrieverDemo.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162648493" ignored="false" />
+    <file path="$PROJECT_DIR$/../VitamioBundle/vitamio/src/io/vov/vitamio/utils/SourceHolder.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162832865" ignored="false" />
+    <file path="$PROJECT_DIR$/../JwZhangJie/src/com/jwzhangjie/videoplayer/util/SourceHolder.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162851637" ignored="false" />
+    <file path="$PROJECT_DIR$/../OPlayer/project.properties" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387167575894" ignored="false" />
+    <file path="$PROJECT_DIR$/../OPlayer/src/com/nmbb/oplayer/util/FileUtils.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168724719" ignored="false" />
+    <file path="$PROJECT_DIR$/../OPlayer/src/com/nmbb/oplayer/util/SourceHolder.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168812977" ignored="false" />
+    <file path="$PROJECT_DIR$/../OPlayer/src/com/nmbb/oplayer/ui/VideoPlayerActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168821424" ignored="false" />
+    <file path="/VideoPlayerActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168787129" ignored="false" />
+    <file path="/OPlayerApplication.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387172318845" ignored="false" />
+    <file path="/content_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387530776065" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/activity/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387179915373" ignored="false" />
+    <file path="/ContentListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387181095186" ignored="false" />
+    <file path="/ContentAdatper.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387531822745" ignored="false" />
+    <file path="/list_content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387181642256" ignored="false" />
+    <file path="/Others.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182811865" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/rpc/dto/Others.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182824415" ignored="false" />
+    <file path="/MapMainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622637773" ignored="false" />
+    <file path="/map_main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387185494188" ignored="false" />
+    <file path="/MapRoadPop.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387183912100" ignored="false" />
+    <file path="/pop_map_road.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387184057069" ignored="false" />
+    <file path="/MapActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387556626928" ignored="false" />
+    <file path="/map.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387549892036" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/HomeController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/PlayController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/PresentController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/webapp/WEB-INF/web.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/ExchangeBoundsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/webapp/WEB-INF/dispatcherContext-servlet.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/GameController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/VirtualGoodsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/pom.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/ServiceController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/GameToolsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/PresentServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259453880" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/.classpath" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/.project" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/web.iml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/web/src/main/main1.iml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/HomeController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/GameController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/UserGameGoodsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameRuleServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/RuleServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserToolServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserPresentServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/VirtualGoodsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/webapp/WEB-INF/web.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/BaseServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/webapp/WEB-INF/dispatcherContext-servlet.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserGameGoodsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/exception/PlayException.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/TelComService/TelComService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387260514584" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/resources/config/spring-context.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/igame.iml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735476" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/hibernate.cfg.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/vo/Page.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/vo/ExchangeVO.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/vo/UserBoundsVO.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/GameToolRefDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/UserGameGoodsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/RuleDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/UserGameBoundsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/MarketingPlanDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/GameToolsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/UserToolDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/BaseDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/ToolDefPriceDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/TermsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/PresentDao.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/UserDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/BoundsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/UserPresentDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/PresentStatusDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/VirtualGoodsDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/GameRuleDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/GameIntroImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/GameDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/dao/PresentDaoImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/tool/RuleUtil.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/tool/LotteryUtil.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/Rule.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/GameToolRef.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/GameRule.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/PresentStatus.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/UserGameGoods.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/Game.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/Bounds.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/UserTool.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/User.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/ToolDefPrice.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/Terms.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/UserGameBounds.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/GameIntro.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/VirtualGoods.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/Present.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/GameTools.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/UserPresent.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/model/MarketingPlan.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/.project" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735477" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameToolRefServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/GameRuleController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/TermsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/pom.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735477" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/TermsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/GameToolsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/.classpath" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735477" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserGameBoundsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/UserPresentController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/VirtualGoodsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/PresentStatusServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/PresentController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/BoundsController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/IndexController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameToolsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/UserToolController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/PresentStatusController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/UserController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/admin/src/main/java/cn/join/iptv/igame/admin/controller/RuleController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259311907" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/BoundsServiceImpl.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/hibernate.reveng.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/pom.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserGameBoundsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/TermsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserToolService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameToolRefService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/PresentService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/BaseService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/RuleService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameRuleService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/PresentStatusService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserGameGoodsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/BoundsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/UserPresentService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/GameToolsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="$PROJECT_DIR$/../../igame/model/src/main/java/cn/join/iptv/service/VirtualGoodsService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387259312217" ignored="false" />
+    <file path="/TelComService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387260474179" ignored="false" />
+    <file path="/DrawView.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387271237685" ignored="false" />
+    <file path="$PROJECT_DIR$/../arcadiaprep/project.properties" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387263806606" ignored="false" />
+    <file path="/MapOnTouchListener.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387271264743" ignored="false" />
+    <file path="/TouchImageViewActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387522994547" ignored="false" />
+    <file path="/TouchImageView.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622534069" ignored="false" />
+    <file path="/BitmapDecode.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387335421722" ignored="false" />
+    <file path="/BitmapMesh.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387335812223" ignored="false" />
+    <file path="/FingerPaint.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387377895386" ignored="false" />
+    <file path="/colors.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387436995890" ignored="false" />
+    <file path="/ids.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387437168048" ignored="false" />
+    <file path="/ImageFactory.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387618314132" ignored="false" />
+    <file path="/Pointer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622204683" ignored="false" />
+    <file path="/StudyList.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503686468" ignored="false" />
+    <file path="/study_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387502920189" ignored="false" />
+    <file path="/QuestonListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506899015" ignored="false" />
+    <file path="/StudyListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506955072" ignored="false" />
+    <file path="/list_study.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387546716234" ignored="false" />
+    <file path="/StudyAdatper.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387547653412" ignored="false" />
+    <file path="/QuestionActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387514266026" ignored="false" />
+    <file path="/question.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545660190" ignored="false" />
+    <file path="/QuestionListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506877799" ignored="false" />
+    <file path="/TestActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545257536" ignored="false" />
+    <file path="/test.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545297967" ignored="false" />
+    <file path="/question_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545701014" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="musume" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/res/layout/question_list.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/adapter/ContentAdatper.java" />
+        <option value="$PROJECT_DIR$/res/layout/list_study.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/adapter/StudyAdatper.java" />
+        <option value="$PROJECT_DIR$/res/layout/pop_exhibition.xml" />
+        <option value="$PROJECT_DIR$/res/layout/map.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/data/ImageFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/data/Pointer.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/colors.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="22" />
+    <option name="width" value="1420" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="musume" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Issue.Navigation" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$USER_HOME$/android-sdks/samples/android-17/ApiDemos" />
+    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.join.musume.adapter" />
+      <recent name="com.join.musume.view" />
+      <recent name="com.join.musume.popwindow" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/res/layout-xlarge" />
+      <recent name="$PROJECT_DIR$/res/drawable-xhdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable" />
+      <recent name="$PROJECT_DIR$/res/drawable-ldpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.join.musume" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.musume">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="musume" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="musume" />
+      <option name="ACTIVITY_CLASS" value="com.join.musume.MainActivity" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="sample" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="ApiDemos" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="USB_DEVICE" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.musume" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.sample" />
+    </list>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d199d7-d120-4afa-80b5-01a3ae098627" name="Default" comment="" />
+      <created>1387093632353</created>
+      <updated>1387093632353</updated>
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1387623592729</created>
+      <updated>1387623592729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init">
+      <created>1387624322572</created>
+      <updated>1387624322572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1387624355271</created>
+      <updated>1387624355271</updated>
+    </task>
+    <task id="LOCAL-00004" summary="init">
+      <created>1387624914939</created>
+      <updated>1387624914939</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init">
+      <created>1387625729939</created>
+      <updated>1387625729939</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="22" width="1420" height="790" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39850748" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65820897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46865672" sideWeight="0.5276565" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67014927" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686567" sideWeight="0.5138282" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="init" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/res/layout/map.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="46" selection-start="821" selection-end="821" vertical-scroll-proportion="-5.5555553">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/app/Activity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="297" column="16" selection-start="12141" selection-end="12141" vertical-scroll-proportion="0.33227345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="158" column="16" selection-start="5485" selection-end="5485" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/android-sdks/samples/android-17/ApiDemos/src/com/example/android/apis/graphics/BitmapMesh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="26" selection-start="2661" selection-end="2661" vertical-scroll-proportion="0.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/view/View.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/graphics/Canvas.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="16" selection-start="6387" selection-end="6387" vertical-scroll-proportion="0.33227345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/data/ImageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="24" selection-start="1061" selection-end="1077" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="45" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/data/Pointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="40" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="236" column="51" selection-start="7992" selection-end="7992" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MapActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="52" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1963#2822#0" expanded="true" />
+            <element signature="e#2807#2808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="64" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="28" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oplayer/exception/Logger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="19" selection-start="461" selection-end="461" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="51" selection-start="497" selection-end="497" vertical-scroll-proportion="0.28037384">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="32" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.25700936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>musume</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
