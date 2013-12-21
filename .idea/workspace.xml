@@ -58,7 +58,7 @@
     <file path="/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387526927792" ignored="false" />
     <file path="/main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545456892" ignored="false" />
     <file path="/PortalActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387096809343" ignored="false" />
-    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387626514116" ignored="false" />
+    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387626528846" ignored="false" />
     <file path="/footer.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387530904853" ignored="false" />
     <file path="/dimens.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387104723497" ignored="false" />
     <file path="/footer_more.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387095115945" ignored="false" />
@@ -677,7 +677,11 @@
       <created>1387626519944</created>
       <updated>1387626519944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init">
+      <created>1387626530866</created>
+      <updated>1387626530866</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
