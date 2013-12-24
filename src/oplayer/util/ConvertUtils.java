@@ -4,9 +4,7 @@ import android.content.Context;
 
 /**
  * 数据转换类
- * 
- * @author 农民伯伯
- * @see http://www.cnblogs.com/over140
+ *
  * 
  */
 public final class ConvertUtils {

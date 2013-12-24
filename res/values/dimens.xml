@@ -3,5 +3,7 @@
 
     <dimen name="footer_height">80dp</dimen>
     <dimen name="switcher_height">380dp</dimen>
+    <dimen name="margin_main_icon">30dp</dimen>
+    <dimen name="title_size">30sp</dimen>
 
 </resources>

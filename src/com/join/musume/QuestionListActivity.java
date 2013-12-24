@@ -35,6 +35,7 @@ public class QuestionListActivity extends BaseActivity {
 //                startActivity(intent);
             }
         });
+        initFooterView(0);
     }
 
     public List<Integer> getImages() {

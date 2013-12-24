@@ -29,6 +29,7 @@ public class MapActivity extends BaseActivity {
     FrameLayout container;
     FrameLayout picContainer;
     TouchImageView touchImageView;
+    ImageView imgList;
     List<ImageView> images = new ArrayList<ImageView>(0);
 
     @Override
@@ -41,6 +42,16 @@ public class MapActivity extends BaseActivity {
         touchImageView = new TouchImageView(this);
         container.addView(touchImageView);
         initPic();
+        initFooterView(1);
+
+        imgList = (ImageView) findViewById(R.id.imgList);
+        imgList.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MapActivity.this, ContentListActivity.class);
+                startActivity(intent);
+            }
+        });
     }
 
     int i = 0;
@@ -96,15 +107,14 @@ public class MapActivity extends BaseActivity {
         //移动image
         for (ImageView imageView : images) {
             Pointer pointer = ImageFactory.getInstance(MapActivity.this).getViewItems().get(i);
-            if(scaled>0){
+            if (scaled > 0) {
                 imageView.setAlpha(255);
                 imageView.setClickable(true);
-            }
-            else{
+            } else {
                 imageView.setClickable(false);
-                if(scaled<-255)imageView.setAlpha(0);
+                if (scaled < -255) imageView.setAlpha(0);
                 else
-                imageView.setAlpha((int)(255+scaled));
+                    imageView.setAlpha((int) (255 + scaled));
             }
             slideview(imageView, pointer.leftTopX, pointer.leftTopY);
             i++;

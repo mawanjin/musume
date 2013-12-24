@@ -1,6 +1,7 @@
 package com.join.musume;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -21,7 +22,7 @@ import java.util.List;
  * Date: 12/17/13
  * Time: 5:13 PM
  */
-public class TouchImageViewActivity extends Activity {
+public class TouchImageViewActivity extends BaseActivity {
     String TAG = TouchImageViewActivity.class.getName();
 
     TextView aa;
@@ -42,6 +43,7 @@ public class TouchImageViewActivity extends Activity {
         container = (FrameLayout) findViewById(R.id.container);
         touchImageView = new TouchImageView(this);
         container.addView(touchImageView);
+        initFooterView(1);
 //        initPic();
     }
 
@@ -69,5 +71,34 @@ public class TouchImageViewActivity extends Activity {
         view.setX(p1);
         view.setY(p2);
         view.invalidate();
+    }
+
+    public void onClick(float x, float y) {
+        //右上角
+        int width = 61;
+        int height = 51;
+        if (x > 550 && x < width + 520 && y > 22 && y < height + 22) {
+            Intent intent = new Intent(this, ContentListActivity.class);
+            startActivity(intent);
+        }
+        //返回
+        int widthBack = 52;
+        int heightBack = 38;
+        if (x > 80 && x < widthBack + 80 && y > 950 && y < heightBack + 950) {
+            finish();
+        }
+        //HOME
+        int widthHome = 52;
+        int heightHome = 38;
+        if (x > 282 && x < widthHome + 282 && y > 950 && y < heightHome + 950) {
+            ActivitiesManager.getInstance().finishAll();
+            Intent intent = new Intent(this, MainActivity.class);
+            startActivity(intent);
+//            finish();
+        }
+        //pop
+        if (x > 470 && x < widthHome + 470 && y > 950 && y < heightHome + 950) {
+            showMore();
+        }
     }
 }

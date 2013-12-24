@@ -13,14 +13,17 @@ import android.widget.ImageView;
 public class MapMainActivity extends BaseActivity implements View.OnClickListener {
 
     ImageView sFloor;
+    ImageView imgList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.map_main);
         initFooterView(1);
+        imgList = (ImageView) findViewById(R.id.imgList);
         sFloor = (ImageView) findViewById(R.id.sFloor);
         sFloor.setOnClickListener(this);
+        imgList.setOnClickListener(this);
     }
 
     @Override
@@ -31,6 +34,10 @@ public class MapMainActivity extends BaseActivity implements View.OnClickListene
             case R.id.sFloor:
 //                intent = new Intent(this, MapActivity.class);
                 intent = new Intent(this, TouchImageViewActivity.class);
+                startActivity(intent);
+                break;
+            case R.id.imgList:
+                intent = new Intent(this, ContentListActivity.class);
                 startActivity(intent);
                 break;
         }

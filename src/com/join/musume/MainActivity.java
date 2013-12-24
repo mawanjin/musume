@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import oplayer.ui.VideoPlayerActivity;
 
-public class MainActivity extends Activity implements View.OnClickListener {
+public class MainActivity extends BaseActivity implements View.OnClickListener {
 
     LinearLayout subExhibitionContainer;
     LinearLayout subSettingContainer;
@@ -62,10 +62,13 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 } else {
                     exhibition.setImageDrawable(getResources().getDrawable(R.drawable.exhib_preview_selected));
                     subExhibitionContainer.setVisibility(View.VISIBLE);
+
+                    if (settingSelected) {
+                        setting.setImageDrawable(getResources().getDrawable(R.drawable.setting));
+                        subSettingContainer.setVisibility(View.GONE);
+                    }
                 }
                 selected = !selected;
-//                intent.setClass(this, MapMainActivity.class);
-//                startActivity(intent);
                 break;
             case R.id.nevigate:
                 intent.setClass(this, VideoPlayerActivity.class);
@@ -76,21 +79,21 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 startActivity(intent);
                 break;
             case R.id.intro:
-                intent.setClass(this,ContentActivity .class);
+                intent.setClass(this, ContentActivity.class);
                 startActivity(intent);
                 break;
             case R.id.inquiry:
-                intent.setClass(this,ContentActivity .class);
-                intent.putExtra(ContentActivity.PARAM_TYPE,ContentActivity.PARAM_TYPE_TREE);
+                intent.setClass(this, ContentActivity.class);
+                intent.putExtra(ContentActivity.PARAM_TYPE, ContentActivity.PARAM_TYPE_TREE);
                 startActivity(intent);
                 break;
             case R.id.reservation:
-                intent.setClass(this,ContentActivity .class);
-                intent.putExtra(ContentActivity.PARAM_TYPE,ContentActivity.PARAM_TYPE_GEO);
+                intent.setClass(this, ContentActivity.class);
+                intent.putExtra(ContentActivity.PARAM_TYPE, ContentActivity.PARAM_TYPE_GEO);
                 startActivity(intent);
                 break;
             case R.id.study:
-                intent.setClass(this,StudyListActivity .class);
+                intent.setClass(this, StudyListActivity.class);
                 startActivity(intent);
                 break;
             case R.id.setting:
@@ -100,6 +103,10 @@ public class MainActivity extends Activity implements View.OnClickListener {
                 } else {
                     setting.setImageDrawable(getResources().getDrawable(R.drawable.setting_selected));
                     subSettingContainer.setVisibility(View.VISIBLE);
+                    if (selected) {
+                        exhibition.setImageDrawable(getResources().getDrawable(R.drawable.exhib_preview));
+                        subExhibitionContainer.setVisibility(View.GONE);
+                    }
                 }
                 settingSelected = !settingSelected;
                 break;

@@ -239,6 +239,9 @@ public class TouchImageView extends ImageView {
             }
             i++;
         }
+
+        ((TouchImageViewActivity)getContext()).onClick(x,y);
+
     }
 
     public double getWidthAfterScaled() {

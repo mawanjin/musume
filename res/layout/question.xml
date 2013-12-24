@@ -22,35 +22,36 @@
                     android:layout_height="wrap_content"
                     android:textColor="@color/white"
                     android:text="@string/study_list"
-                    android:textSize="18sp"
+                    android:textSize="@dimen/title_size"
                     android:layout_centerInParent="true"/>
 
         </RelativeLayout>
+
 
         <!--内容-->
         <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
 
+
             <ImageView
                     android:id="@+id/question"
                     android:layout_centerHorizontal="true"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:src="@drawable/s_question1"/>
+                    android:src="@drawable/s_question3"/>
+
 
             <!--选项视图-->
             <LinearLayout
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_centerInParent="true"
-                    >
+                    android:layout_centerInParent="true">
                 <!--对错-->
                 <LinearLayout
                         android:id="@+id/option1"
                         android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        >
+                        android:layout_height="wrap_content">
 
                     <ImageView
                             android:id="@+id/check"
@@ -92,6 +93,45 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:src="@drawable/c"/>
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <!--键盘-->
+            <LinearLayout
+                    android:id="@+id/keyborderContainer"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="5"></LinearLayout>
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="100dp"
+                        android:layout_marginRight="100dp">
+
+                    <EditText
+                            android:id="@+id/keyborder"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:minLines="10"
+                            android:gravity="top"
+                            android:textSize="23sp"
+                            android:background="#00000000"
+                            android:textColor="@color/green"/>
+                </LinearLayout>
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="6">
+
                 </LinearLayout>
 
             </LinearLayout>

@@ -12,7 +12,7 @@ import java.util.List;
  * Date: 12/16/13
  * Time: 3:48 PM
  */
-public class ContentListActivity extends BaseActivity  {
+public class ContentListActivity extends BaseActivity {
 
     ListView listView;
     ContentAdatper mAdatper;
@@ -22,12 +22,12 @@ public class ContentListActivity extends BaseActivity  {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.content_list);
         listView = (ListView) findViewById(R.id.list);
-        mAdatper = new ContentAdatper(this,getImages());
+        mAdatper = new ContentAdatper(this, getImages());
         listView.setAdapter(mAdatper);
         initFooterView(0);
     }
 
-    public List<Integer> getImages(){
+    public List<Integer> getImages() {
         List<Integer> images = new ArrayList<Integer>(0);
         images.add(R.drawable.list1);
         images.add(R.drawable.list2);

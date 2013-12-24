@@ -5,7 +5,7 @@
       <profile>
         <option name="device" value="7in WSVGA (Tablet)" />
         <option name="deviceConfiguration" value="Portrait" />
-        <option name="targetHashString" value="android-17" />
+        <option name="targetHashString" value="android-14" />
         <option name="theme" value="Theme.Light.NoTitleBar" />
       </profile>
     </option>
@@ -24,53 +24,62 @@
     </option>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="outWidth=" />
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="INFO" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="mu" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3d199d7-d120-4afa-80b5-01a3ae098627" name="Default" comment="init">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/base/ArrayAdapter.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/base/ArrayAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/view/CustomScrollView.java" afterPath="$PROJECT_DIR$/src/com/join/musume/view/CustomScrollView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/business/FileBusiness.java" afterPath="$PROJECT_DIR$/src/oplayer/business/FileBusiness.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/service/FileDownloadService.java" afterPath="$PROJECT_DIR$/src/oplayer/service/FileDownloadService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/util/FileUtils.java" afterPath="$PROJECT_DIR$/src/oplayer/util/FileUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/base/FilterArrayAdapter.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/base/FilterArrayAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/FragmentBase.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentBase.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/FragmentFileOld.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentFileOld.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/FragmentOnline.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/FragmentOnline.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/exception/Logger.java" afterPath="$PROJECT_DIR$/src/oplayer/exception/Logger.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/MainActivity.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/po/PFile.java" afterPath="$PROJECT_DIR$/src/oplayer/po/PFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/util/PinyinUtils.java" afterPath="$PROJECT_DIR$/src/oplayer/util/PinyinUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/database/SQLiteHelperOrm.java" afterPath="$PROJECT_DIR$/src/oplayer/database/SQLiteHelperOrm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/util/StringUtils.java" afterPath="$PROJECT_DIR$/src/oplayer/util/StringUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/ui/helper/VideoHelper.java" afterPath="$PROJECT_DIR$/src/oplayer/ui/helper/VideoHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/video/VideoThumbnailUtils.java" afterPath="$PROJECT_DIR$/src/oplayer/video/VideoThumbnailUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/alphabet_scroller_bg.xml" afterPath="$PROJECT_DIR$/res/drawable/alphabet_scroller_bg.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/app_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/join/musume/ActivitiesManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/s_question3.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/s_question3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/thumb_dragon.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_dragon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/thumb_geo.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_geo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/thumb_tree.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/thumb_tree.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/BaseActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/BaseActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/ContentListActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/ContentListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java" afterPath="$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" afterPath="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/colors.xml" afterPath="$PROJECT_DIR$/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/common_loading.xml" afterPath="$PROJECT_DIR$/res/layout/common_loading.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable/home_btn_bg.xml" afterPath="$PROJECT_DIR$/res/drawable/home_btn_bg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/styles.xml" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/content.xml" afterPath="$PROJECT_DIR$/res/layout/content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/content_list.xml" afterPath="$PROJECT_DIR$/res/layout/content_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/dimens.xml" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/footer.xml" afterPath="$PROJECT_DIR$/res/layout/footer.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/main.xml" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/map.xml" afterPath="$PROJECT_DIR$/res/layout/map.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/map_main.xml" afterPath="$PROJECT_DIR$/res/layout/map_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/question.xml" afterPath="$PROJECT_DIR$/res/layout/question.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/question_list.xml" afterPath="$PROJECT_DIR$/res/layout/question_list.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/study_list.xml" afterPath="$PROJECT_DIR$/res/layout/study_list.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="musume.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387526927792" ignored="false" />
-    <file path="/main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545456892" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387782632159" ignored="false" />
+    <file path="/main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387856209664" ignored="false" />
     <file path="/PortalActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387096809343" ignored="false" />
-    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387626555470" ignored="false" />
-    <file path="/footer.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387530904853" ignored="false" />
-    <file path="/dimens.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387104723497" ignored="false" />
+    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850097876" ignored="false" />
+    <file path="/footer.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387851110194" ignored="false" />
+    <file path="/dimens.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850255383" ignored="false" />
     <file path="/footer_more.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387095115945" ignored="false" />
-    <file path="/content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545527530" ignored="false" />
+    <file path="/content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387852986699" ignored="false" />
     <file path="/ContentActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182428499" ignored="false" />
-    <file path="/MainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503230247" ignored="false" />
-    <file path="/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387184115400" ignored="false" />
+    <file path="/MainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387859373005" ignored="false" />
+    <file path="/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387858954016" ignored="false" />
     <file path="/ExhibitionPop.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387110303434" ignored="false" />
     <file path="/pop_exhibition.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387548722581" ignored="false" />
     <file path="$PROJECT_DIR$/../JwZhangJie/project.properties" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387116233402" ignored="false" />
     <file path="$PROJECT_DIR$/../JwZhangJie/res/values/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387116325180" ignored="false" />
-    <file path="/fragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503826998" ignored="false" />
+    <file path="/fragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387858855428" ignored="false" />
     <file path="$PROJECT_DIR$/../JwZhangJie/src/com/jwzhangjie/videoplayer/JieVideoPlayer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162860323" ignored="false" />
     <file path="/JieVideoPlayer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387162857940" ignored="false" />
     <file path="$PROJECT_DIR$/../VitamioBundle/vitamio-sample/src/io/vov/vitamio/demo/MediaPlayerDemo_Video.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387161952353" ignored="false" />
@@ -96,7 +105,7 @@
     <file path="$PROJECT_DIR$/../OPlayer/src/com/nmbb/oplayer/ui/VideoPlayerActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168821424" ignored="false" />
     <file path="/VideoPlayerActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387168787129" ignored="false" />
     <file path="/OPlayerApplication.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387172318845" ignored="false" />
-    <file path="/content_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387530776065" ignored="false" />
+    <file path="/content_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387851763211" ignored="false" />
     <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/activity/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387179915373" ignored="false" />
     <file path="/ContentListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387181095186" ignored="false" />
     <file path="/ContentAdatper.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387531822745" ignored="false" />
@@ -104,11 +113,11 @@
     <file path="/Others.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182811865" ignored="false" />
     <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/rpc/dto/Others.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182824415" ignored="false" />
     <file path="/MapMainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622637773" ignored="false" />
-    <file path="/map_main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387185494188" ignored="false" />
+    <file path="/map_main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387855888347" ignored="false" />
     <file path="/MapRoadPop.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387183912100" ignored="false" />
     <file path="/pop_map_road.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387184057069" ignored="false" />
-    <file path="/MapActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387556626928" ignored="false" />
-    <file path="/map.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387549892036" ignored="false" />
+    <file path="/MapActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387852015592" ignored="false" />
+    <file path="/map.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387859730541" ignored="false" />
     <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/HomeController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
     <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/PlayController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
     <file path="$PROJECT_DIR$/../../igame/web/src/main/java/cn/join/iptv/web/controller/PresentController.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387258735108" ignored="false" />
@@ -230,27 +239,28 @@
     <file path="/DrawView.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387271237685" ignored="false" />
     <file path="$PROJECT_DIR$/../arcadiaprep/project.properties" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387263806606" ignored="false" />
     <file path="/MapOnTouchListener.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387271264743" ignored="false" />
-    <file path="/TouchImageViewActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387522994547" ignored="false" />
-    <file path="/TouchImageView.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622534069" ignored="false" />
+    <file path="/TouchImageViewActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387858648267" ignored="false" />
+    <file path="/TouchImageView.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387856929748" ignored="false" />
     <file path="/BitmapDecode.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387335421722" ignored="false" />
     <file path="/BitmapMesh.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387335812223" ignored="false" />
     <file path="/FingerPaint.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387377895386" ignored="false" />
-    <file path="/colors.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387436995890" ignored="false" />
+    <file path="/colors.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387855733102" ignored="false" />
     <file path="/ids.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387437168048" ignored="false" />
     <file path="/ImageFactory.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387618314132" ignored="false" />
     <file path="/Pointer.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387622204683" ignored="false" />
     <file path="/StudyList.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387503686468" ignored="false" />
-    <file path="/study_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387502920189" ignored="false" />
+    <file path="/study_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850333875" ignored="false" />
     <file path="/QuestonListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506899015" ignored="false" />
     <file path="/StudyListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506955072" ignored="false" />
     <file path="/list_study.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387546716234" ignored="false" />
     <file path="/StudyAdatper.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387547653412" ignored="false" />
-    <file path="/QuestionActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387514266026" ignored="false" />
-    <file path="/question.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545660190" ignored="false" />
+    <file path="/QuestionActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387860766853" ignored="false" />
+    <file path="/question.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387856041800" ignored="false" />
     <file path="/QuestionListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506877799" ignored="false" />
     <file path="/TestActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545257536" ignored="false" />
     <file path="/test.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545297967" ignored="false" />
-    <file path="/question_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545701014" ignored="false" />
+    <file path="/question_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850366302" ignored="false" />
+    <file path="/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387860915814" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -302,6 +312,38 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints>
+      <breakpoint url="file://$PROJECT_DIR$/src/com/join/musume/ActivitiesManager.java" line="24" class="com.join.musume.ActivitiesManager" package="com.join.musume">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java" line="65" class="oplayer.ui.VideoPlayerActivity" package="oplayer.ui">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -328,29 +370,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/layout/question_list.xml" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/adapter/ContentAdatper.java" />
-        <option value="$PROJECT_DIR$/res/layout/list_study.xml" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/adapter/StudyAdatper.java" />
-        <option value="$PROJECT_DIR$/res/layout/pop_exhibition.xml" />
-        <option value="$PROJECT_DIR$/res/layout/map.xml" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/data/ImageFactory.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/data/Pointer.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java" />
-        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/content.xml" />
         <option value="$PROJECT_DIR$/res/values/colors.xml" />
+        <option value="$PROJECT_DIR$/res/layout/map_main.xml" />
+        <option value="$PROJECT_DIR$/res/layout/question.xml" />
+        <option value="$PROJECT_DIR$/res/layout/main.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/MapActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/ActivitiesManager.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/MainActivity.java" />
+        <option value="$PROJECT_DIR$/res/layout/map.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
+        <option value="$PROJECT_DIR$/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java" />
+        <option value="$PROJECT_DIR$/AndroidManifest.xml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
     <option name="y" value="22" />
-    <option name="width" value="1420" />
+    <option name="width" value="1440" />
     <option name="height" value="790" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -381,6 +422,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -401,7 +443,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -415,24 +456,25 @@
     <property name="options.lastSelected" value="project.propVCSSupport.Issue.Navigation" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$USER_HOME$/android-sdks/samples/android-17/ApiDemos" />
-    <property name="AndroidLayoutSelectedEditor" value="text-editor" />
+    <property name="AndroidLayoutSelectedEditor" value="android-designer" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.join.musume" />
       <recent name="com.join.musume.adapter" />
       <recent name="com.join.musume.view" />
       <recent name="com.join.musume.popwindow" />
@@ -440,10 +482,10 @@
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
       <recent name="$PROJECT_DIR$/res/layout-xlarge" />
       <recent name="$PROJECT_DIR$/res/drawable-xhdpi" />
       <recent name="$PROJECT_DIR$/res/drawable" />
-      <recent name="$PROJECT_DIR$/res/drawable-ldpi" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.join.musume" />
@@ -486,19 +528,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -525,6 +554,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -713,37 +755,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="22" width="1420" height="790" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="790" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32969433" sideWeight="0.6731343" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39850748" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65820897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46865672" sideWeight="0.5276565" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496361" sideWeight="0.67014927" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32686567" sideWeight="0.5138282" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.6746269" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32537314" sideWeight="0.5138282" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5313433" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39850748" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6567164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46865672" sideWeight="0.5276565" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -847,120 +889,126 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/layout/map.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="46" selection-start="821" selection-end="821" vertical-scroll-proportion="-5.5555553">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/app/Activity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="297" column="16" selection-start="12141" selection-end="12141" vertical-scroll-proportion="0.33227345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="158" column="16" selection-start="5485" selection-end="5485" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/android-sdks/samples/android-17/ApiDemos/src/com/example/android/apis/graphics/BitmapMesh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="26" selection-start="2661" selection-end="2661" vertical-scroll-proportion="0.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/view/View.class">
-      <provider selected="true" editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/res/layout/content_list.xml">
+      <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/android-sdks/platforms/android-17/android.jar!/android/graphics/Canvas.class">
+    <entry file="file://$PROJECT_DIR$/res/layout/question_list.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="156" column="16" selection-start="6387" selection-end="6387" vertical-scroll-proportion="0.33227345">
+        <state line="18" column="33" selection-start="407" selection-end="427" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/data/ImageFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="24" selection-start="1061" selection-end="1077" vertical-scroll-proportion="0.0">
+        <state line="22" column="41" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/TouchImageViewActivity.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/question.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="45" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.0">
+        <state line="119" column="54" selection-start="4784" selection-end="4793" vertical-scroll-proportion="0.59697735">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="36" selection-start="2282" selection-end="2282" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/data/Pointer.java">
+    <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="40" selection-start="1381" selection-end="1381" vertical-scroll-proportion="0.0">
+        <state line="19" column="75" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/view/TouchImageView.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/content.xml">
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oplayer/ui/PlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="236" column="51" selection-start="7992" selection-end="7992" vertical-scroll-proportion="0.0">
+        <state line="19" column="13" selection-start="562" selection-end="562" vertical-scroll-proportion="0.11923689">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MapActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/view/DrawView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="52" selection-start="681" selection-end="681" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#1963#2822#0" expanded="true" />
-            <element signature="e#2807#2808#0" expanded="true" />
-          </folding>
+        <state line="15" column="13" selection-start="321" selection-end="321" vertical-scroll-proportion="0.21028037">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MapMainActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="64" selection-start="906" selection-end="906" vertical-scroll-proportion="0.0">
+        <state line="6" column="3" selection-start="71" selection-end="71" vertical-scroll-proportion="0.14018692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oplayer/util/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="50" selection-start="6151" selection-end="6151" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oplayer/util/SourceHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="252" selection-end="252" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="28" selection-start="1077" selection-end="1077" vertical-scroll-proportion="0.0">
+        <state line="7" column="34" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/oplayer/exception/Logger.java">
+    <entry file="file://$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="19" selection-start="461" selection-end="461" vertical-scroll-proportion="0.33333334">
+        <state line="65" column="23" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/values/colors.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="51" selection-start="497" selection-end="497" vertical-scroll-proportion="0.28037384">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="32" selection-start="1001" selection-end="1001" vertical-scroll-proportion="0.25700936">
+        <state line="102" column="90" selection-start="3665" selection-end="3665" vertical-scroll-proportion="3.3962264">
           <folding />
         </state>
       </provider>

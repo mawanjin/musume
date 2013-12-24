@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">musume</string>
+    <string name="app_name">上海自然博物馆DEMO</string>
     <string name="title_file">本地视频</string>
     <string name="title_online">在线视频</string>
     <string name="init_decoders">正在进行第一次解压解码包...</string>
