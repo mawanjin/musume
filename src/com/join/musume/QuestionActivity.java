@@ -71,7 +71,7 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
         question.setImageDrawable(imageViews.get(which));
         initFooterView(0);
 
-        hideSoftkeyBorder();
+//        hideSoftkeyBorder();
 
     }
 
@@ -80,6 +80,7 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
         InputMethodManager imm = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
         imm.hideSoftInputFromWindow(keyborder.getWindowToken(), 0);
         if (android.os.Build.VERSION.SDK_INT <= 10) {
+
             keyborder.setInputType(InputType.TYPE_NULL);
         } else {
             getWindow().setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_STATE_ALWAYS_HIDDEN);
@@ -89,7 +90,7 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
                 Method setSoftInputShownOnFocus;
                 setSoftInputShownOnFocus = cls.getMethod("setSoftInputShownOnFocus", boolean.class);
                 setSoftInputShownOnFocus.setAccessible(true);
-                setSoftInputShownOnFocus.invoke(keyborder, false);
+                setSoftInputShownOnFocus.invoke(keyborder, true);
                 keyborder.setSelected(true);
                 keyborder.setCursorVisible(true);
             } catch (Exception e) {
@@ -121,11 +122,11 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
                 break;
             case R.id.next:
                 which++;
-                if(which>2){
-                    Intent intent = new Intent(this,QuestionListActivity.class);
+                if (which > 2) {
+                    Intent intent = new Intent(this, QuestionListActivity.class);
                     intent.setFlags(Intent.FLAG_ACTIVITY_BROUGHT_TO_FRONT);
                     startActivity(intent);
-                }else{
+                } else {
 
                 }
 
@@ -169,7 +170,10 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
                 keyborderContainer.setVisibility(View.VISIBLE);
                 option1.setVisibility(View.GONE);
                 option2.setVisibility(View.GONE);
-                hideSoftkeyBorder();
+//                hideSoftkeyBorder();
+                keyborder.setCursorVisible(true);
+                keyborder.setFocusable(true);
+                keyborder.performClick();
                 next.setImageDrawable(getResources().getDrawable(R.drawable.submit));
                 break;
         }

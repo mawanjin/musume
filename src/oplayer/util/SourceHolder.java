@@ -17,16 +17,17 @@ public class SourceHolder {
     public static File getSource(Context context) {
         File file = null;
         //将raw里的视频文件复制到sd卡中去
-        if (!FileUtils.getInstance().isFileExist("/temp/vitamio/test.mp4")) {
+//        if (!FileUtils.getInstance().isFileExist("/temp/vitamio/test.mp4")) {
+        if (!FileUtils.getInstance().isFileExist("/temp/vitamio/mv.flv")) {
             try {
-                InputStream in = context.getResources().openRawResource(R.raw.test);
-                file = FileUtils.getInstance().write2SDFromInput("/temp/vitamio/", "test.mp4", in);
+                InputStream in = context.getResources().openRawResource(R.raw.mv);
+                file = FileUtils.getInstance().write2SDFromInput("/temp/vitamio/", "mv.flv", in);
                 in.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
         } else
-            file = new File(FileUtils.getInstance().getSDPATH() + "/temp/vitamio/test.mp4");
+            file = new File(FileUtils.getInstance().getSDPATH() + "/temp/vitamio/mv.flv");
         return file;
     }
 }

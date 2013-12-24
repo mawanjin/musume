@@ -4,7 +4,6 @@
           android:versionCode="1"
           android:versionName="1.0">
 
-
     <uses-sdk
             android:minSdkVersion="15"
             android:targetSdkVersion="16"/>
@@ -33,8 +32,8 @@
         <activity android:name=".MapMainActivity"/>
         <activity android:name=".MapActivity"/>
         <activity android:name=".StudyListActivity"/>
-        <activity android:name=".QuestionListActivity"/>
-        <activity android:name=".QuestionActivity"/>
+        <activity android:name=".QuestionListActivity" />
+        <activity android:name=".QuestionActivity" android:windowSoftInputMode="adjustPan|stateHidden"/>
         <activity android:name=".TestActivity">
 
         </activity>
