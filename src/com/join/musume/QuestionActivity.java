@@ -123,9 +123,10 @@ public class QuestionActivity extends BaseActivity implements View.OnClickListen
             case R.id.next:
                 which++;
                 if (which > 2) {
-                    Intent intent = new Intent(this, QuestionListActivity.class);
-                    intent.setFlags(Intent.FLAG_ACTIVITY_BROUGHT_TO_FRONT);
-                    startActivity(intent);
+//                    Intent intent = new Intent(this, QuestionListActivity.class);
+//                    intent.setFlags(Intent.FLAG_ACTIVITY_BROUGHT_TO_FRONT);
+//                    startActivity(intent);
+                    finish();
                 } else {
 
                 }

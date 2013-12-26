@@ -29,11 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3d199d7-d120-4afa-80b5-01a3ae098627" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/raw/mv.flv" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/res/raw/test.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/dragon_desc.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/dragon_desc.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/geo_txt.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/geo_txt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/drawable-mdpi/tree_txt.png" afterPath="$PROJECT_DIR$/res/drawable-mdpi/tree_txt.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" afterPath="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/oplayer/util/SourceHolder.java" afterPath="$PROJECT_DIR$/src/oplayer/util/SourceHolder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/content.xml" afterPath="$PROJECT_DIR$/res/layout/content.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="musume.iws" />
@@ -41,11 +41,11 @@
     <file path="/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387862822890" ignored="false" />
     <file path="/main.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387856209664" ignored="false" />
     <file path="/PortalActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387096809343" ignored="false" />
-    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387866562293" ignored="false" />
+    <file path="/Dummy.txt" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387959604301" ignored="false" />
     <file path="/footer.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387851110194" ignored="false" />
     <file path="/dimens.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850255383" ignored="false" />
     <file path="/footer_more.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387095115945" ignored="false" />
-    <file path="/content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387852986699" ignored="false" />
+    <file path="/content.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387960918919" ignored="false" />
     <file path="/ContentActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387182428499" ignored="false" />
     <file path="/MainActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387859373005" ignored="false" />
     <file path="/BaseActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387858954016" ignored="false" />
@@ -228,13 +228,41 @@
     <file path="/StudyListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506955072" ignored="false" />
     <file path="/list_study.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387546716234" ignored="false" />
     <file path="/StudyAdatper.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387547653412" ignored="false" />
-    <file path="/QuestionActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387862332745" ignored="false" />
+    <file path="/QuestionActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387961063863" ignored="false" />
     <file path="/question.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387856041800" ignored="false" />
     <file path="/QuestionListActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387506877799" ignored="false" />
     <file path="/TestActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545257536" ignored="false" />
     <file path="/test.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387545297967" ignored="false" />
     <file path="/question_list.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387850366302" ignored="false" />
-    <file path="/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387860915814" ignored="false" />
+    <file path="/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887483779" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/AndroidManifest.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387876030182" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/utils/BitMapUtils.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387877600812" ignored="false" />
+    <file path="/BitMapUtils.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387877598870" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/view/dialog/SendPersonalMsgDialogFragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387889116376" ignored="false" />
+    <file path="/SendPersonalMsgDialogFragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887495577" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/res/layout/send_msg_dialog_view.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387878625065" ignored="false" />
+    <file path="/send_msg_dialog_view.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387878625065" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/res/values/strings.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887483779" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/activity/MineActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387889742308" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/asynctask/SendPersonalMsgAsyncTask.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887452921" ignored="false" />
+    <file path="/SendPersonalMsgAsyncTask.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887436426" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/asynctask/BaseAsyncTask.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387886618443" ignored="false" />
+    <file path="/BaseAsyncTask.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387886609642" ignored="false" />
+    <file path="/RPCService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387891308177" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/rpc/RPCService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387891309094" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/manager/RPCServiceManager.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887224771" ignored="false" />
+    <file path="/RPCServiceManager.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887223238" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/iservice/RPCService.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887214067" ignored="false" />
+    <file path="/UserManager.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387889155080" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/manager/UserManager.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387889156703" ignored="false" />
+    <file path="/MineActivity.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887796938" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/rpc/dto/Journey.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887935807" ignored="false" />
+    <file path="/Journey.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387887922760" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/telcom/android/meitu/rpc/dto/Partner.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387888906121" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/src/com/join/android/common/model/user/fragment/MsgFragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387890705660" ignored="false" />
+    <file path="/MsgFragment.java" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387890109967" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/res/layout/teavel_destination_layout.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387892754908" ignored="false" />
+    <file path="$PROJECT_DIR$/../join/meitu/res/layout/travel_hot_fragment.xml" changelist="f3d199d7-d120-4afa-80b5-01a3ae098627" time="1387892754908" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,6 +277,39 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/src/com/join/musume/ActivitiesManager.java" line="24" class="com.join.musume.ActivitiesManager" package="com.join.musume">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java" line="65" class="oplayer.ui.VideoPlayerActivity" package="oplayer.ui">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -285,39 +346,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/com/join/musume/ActivitiesManager.java" line="24" class="com.join.musume.ActivitiesManager" package="com.join.musume">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-      <breakpoint url="file://$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java" line="65" class="oplayer.ui.VideoPlayerActivity" package="oplayer.ui">
-        <option name="ENABLED" value="true" />
-        <option name="LOG_ENABLED" value="false" />
-        <option name="LOG_EXPRESSION_ENABLED" value="false" />
-        <option name="REMOVE_AFTER_HIT" value="false" />
-        <option name="SUSPEND_POLICY" value="SuspendAll" />
-        <option name="SUSPEND" value="true" />
-        <option name="COUNT_FILTER_ENABLED" value="false" />
-        <option name="COUNT_FILTER" value="0" />
-        <option name="CONDITION_ENABLED" value="true" />
-        <option name="CLASS_FILTERS_ENABLED" value="false" />
-        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
-      </breakpoint>
-    </line_breakpoints>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -326,7 +354,28 @@
     <favorites_list name="musume" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="ContentActivity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="162" column="53" selection-start="5623" selection-end="5623" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuestionActivity.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="52" selection-start="4645" selection-end="4645" vertical-scroll-proportion="0.6863208">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -344,7 +393,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/res/layout/map_main.xml" />
         <option value="$PROJECT_DIR$/res/layout/question.xml" />
         <option value="$PROJECT_DIR$/res/layout/main.xml" />
@@ -357,9 +405,10 @@
         <option value="$PROJECT_DIR$/res/layout/map.xml" />
         <option value="$PROJECT_DIR$/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java" />
-        <option value="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/src/oplayer/util/SourceHolder.java" />
+        <option value="$PROJECT_DIR$/res/layout/content.xml" />
+        <option value="$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java" />
       </list>
     </option>
   </component>
@@ -396,6 +445,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -417,7 +467,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,11 +486,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
@@ -455,18 +504,18 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/res/raw" />
       <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
+      <recent name="$PROJECT_DIR$/res/raw" />
       <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
       <recent name="$PROJECT_DIR$/res/layout-xlarge" />
       <recent name="$PROJECT_DIR$/res/drawable-xhdpi" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.join.musume" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/res/drawable-mdpi" />
       <recent name="$PROJECT_DIR$/res/drawable-hdpi" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.join.musume" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.musume">
@@ -502,19 +551,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -541,6 +577,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -709,7 +758,11 @@
       <created>1387861522682</created>
       <updated>1387861522682</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="init">
+      <created>1387867105537</created>
+      <updated>1387867105537</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -736,10 +789,12 @@
     <frame x="0" y="22" width="1440" height="790" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5313433" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39850748" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -748,7 +803,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.6552239" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.65373135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46865672" sideWeight="0.5276565" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32985073" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
@@ -758,12 +813,10 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892396" sideWeight="0.6746269" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32537314" sideWeight="0.5138282" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.6746269" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5313433" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3283582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -869,23 +922,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/join/musume/QuestionListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="407" selection-end="427" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="33" selection-start="407" selection-end="427" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="22" column="41" selection-start="523" selection-end="523" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/question.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="54" selection-start="4784" selection-end="4793" vertical-scroll-proportion="0.59697735">
-          <folding />
-        </state>
+        <state line="119" column="54" selection-start="4784" selection-end="4793" vertical-scroll-proportion="0.59697735" />
       </provider>
       <provider editor-type-id="android-designer">
         <state />
@@ -893,33 +940,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="75" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/content.xml">
-      <provider editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
+        <state line="19" column="75" selection-start="934" selection-end="934" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oplayer/ui/PlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="13" selection-start="562" selection-end="562" vertical-scroll-proportion="0.11923689">
-          <folding />
-        </state>
+        <state line="19" column="13" selection-start="562" selection-end="562" vertical-scroll-proportion="0.11923689" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/join/musume/view/DrawView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="321" selection-end="321" vertical-scroll-proportion="0.21028037">
-          <folding />
-        </state>
+        <state line="15" column="13" selection-start="321" selection-end="321" vertical-scroll-proportion="0.21028037" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oplayer/util/ConvertUtils.java">
@@ -929,21 +960,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oplayer/util/FileUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="50" selection-start="6151" selection-end="6151" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="50" selection-start="6151" selection-end="6151" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/oplayer/ui/VideoPlayerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="65" column="23" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="90" selection-start="3665" selection-end="3665" vertical-scroll-proportion="3.3962264">
           <folding />
         </state>
       </provider>
@@ -957,29 +979,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/join/musume/BaseActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="13" selection-start="451" selection-end="451" vertical-scroll-proportion="0.21028037">
+        <state line="18" column="13" selection-start="451" selection-end="451" vertical-scroll-proportion="0.21028037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oplayer/util/SourceHolder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="80" selection-start="624" selection-end="624" vertical-scroll-proportion="0.6014151" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/io/vov/vitamio/R.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="38" selection-end="39" vertical-scroll-proportion="0.070754714" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/content.xml">
+      <provider editor-type-id="text-editor">
+        <state line="103" column="52" selection-start="4529" selection-end="4529" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/join/musume/ContentActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="162" column="53" selection-start="5623" selection-end="5623" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/join/musume/QuestionActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="56" selection-start="6088" selection-end="6088" vertical-scroll-proportion="0.36915886">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/oplayer/util/SourceHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="80" selection-start="624" selection-end="624" vertical-scroll-proportion="0.6014151">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/io/vov/vitamio/R.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="38" selection-end="39" vertical-scroll-proportion="0.070754714">
-          <folding />
+        <state line="131" column="52" selection-start="4645" selection-end="4645" vertical-scroll-proportion="0.6863208">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
